@@ -2,7 +2,11 @@
 
 A production-ready Natural Language Processing (NLP) web application that analyzes user-submitted movie reviews and instantly predicts whether they are **Positive** or **Negative** with a confidence score.
 
-Built using Python, Scikit-learn, and Streamlit, and trained on the IMDB 50k Movie Reviews dataset.
+Built with Python, Scikit-learn, and Streamlit, and trained on the IMDB 50k Movie Reviews dataset.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-review-sentiment-analyzer123.streamlit.app/)
+
+**Live demo:** https://movie-review-sentiment-analyzer123.streamlit.app/
 
 ---
 
